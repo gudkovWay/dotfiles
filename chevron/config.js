@@ -1,6 +1,22 @@
 window.CONFIG = {
   macros: [
     {
+
+      category: "Entertainment",
+      name: "WallHaven",
+      triggers: ["b", "backgrounds", "wall"],
+      key: "KeyB",
+      icon: "wall",
+      url: "https://wallhaven.cc",
+      normalisedURL: "wallhaven.cc",
+      bgColor: {
+        type: "solid",
+        color: "#212121",
+      },
+      textColor: "#faf",
+      pinned: true,
+    },
+    {
       category: "Entertainment",
       name: "YouTube",
       triggers: ["y", "yt", "youtube"],
