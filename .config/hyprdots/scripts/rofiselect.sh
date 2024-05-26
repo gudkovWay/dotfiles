@@ -25,7 +25,7 @@ r_override="listview{columns:4;} element{orientation:vertical;border-radius:${el
 RofiSel=$( ls ${RofiStyle}/style_*.rasi | awk -F '/' '{print $NF}' | cut -d '.' -f 1 | while read rstyle
 do
     echo -en "$rstyle\x00icon\x1f${RofiAssets}/${rstyle}.png\n"
-done | rofi -dmenu -theme-str "${r_override}" -config $RofiConf)
+done | wofi -dmenu -theme-str "${r_override}" -config $RofiConf)
 
 
 # apply rofi style

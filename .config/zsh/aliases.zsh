@@ -219,4 +219,4 @@ alias gwip='git add -A; git rm $(git ls-files --deleted) 2> /dev/null; git commi
 alias i='npm install'
 alias build='npm run build'
 alias dev='npm run dev'
-
+alias n='nvim'
