@@ -4,4 +4,4 @@
 <a href="https://github.com/end-4/dots-hyprland">Also thanks this man for AGS config</a>
 
 Updated photo by 22/07/2024 config upload
-<img src="https://imgur.com/iYiptAX" />
+<img src="https://i.imgur.com/iYiptAX.png" />
