@@ -3,6 +3,14 @@ MenuBar=Disabled
 [$Version]
 update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
 
+[CompactMode]
+UseSystemFont=false
+ViewFont=ComicShannsMono Nerd Font,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[DetailsMode]
+UseSystemFont=false
+ViewFont=ComicShannsMono Nerd Font,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
 [General]
 ShowSelectionToggle=false
 ShowStatusBar=false
@@ -12,6 +20,8 @@ ViewPropsTimestamp=2023,4,26,16,58,48.324
 [IconsMode]
 MaximumTextLines=1
 PreviewSize=112
+UseSystemFont=false
+ViewFont=JetBrainsMono Nerd Font Mono,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 
 [InformationPanel]
 dateFormat=ShortFormat
